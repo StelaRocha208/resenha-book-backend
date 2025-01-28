@@ -1,3 +1,3 @@
 ## Programação Web
 
-Projeto individual da matéria de Web (backend)
+Projeto individual da matéria de Web - Backend
